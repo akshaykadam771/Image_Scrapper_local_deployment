@@ -20,4 +20,4 @@ By running this you will be able to download images for your various Deep-Learni
 
 6)Enter the keyword for images.
 
-7)Now this will download your 10 images in your "pic" folder.
+7)Now this will download your 10 images in your "pics" folder.
